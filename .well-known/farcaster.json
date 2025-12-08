@@ -1,21 +1,28 @@
 {
-  "name": "Tap A→Z Rush",
-  "description": "Tap A→Z Rush — Tap A to Z in order as fast as you can. Compete on the leaderboard!",
-  "url": "https://tap-a-z-rush.vercel.app",
-  "icon": "https://tap-a-z-rush.vercel.app/favicon.png",
-  "version": "1.0.0",
-  "screenshotUrls": [
-    "https://tap-a-z-rush.vercel.app/screenshot-1.png",
-    "https://tap-a-z-rush.vercel.app/screenshot-2.png"
-  ],
-  "primaryCategory": "game",
-  "tags": ["game", "tap", "speed", "leaderboard", "az"],
-  "permissions": [],
-  "openIn": {
-    "type": "iframe",
-    "url": "https://tap-a-z-rush.vercel.app"
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
   },
   "baseBuilder": {
     "ownerAddress": "0x7E57b5d42a37cC332Cc54712db977F43Baf2ff28"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Tap A→Z Rush",
+    "homeUrl": "https://tap-a-z-rush.vercel.app",
+    "iconUrl": "https://tap-a-z-rush.vercel.app/icon.png",
+    "splashImageUrl": "https://tap-a-z-rush.vercel.app/splash.png",
+    "splashBackgroundColor": "#0000FF",
+    "subtitle": "Create & vote polls instantly from Base mini-app",
+    "description": "Tap A→Z Rush — Tap A to Z in order as fast as you can. Compete on the leaderboard!",
+    "primaryCategory": "game",
+    "tags": [
+      "game"
+    ],
+    "heroImageUrl": "https://tap-a-z-rush.vercel.app/hero.png",
+    "imageUrl": "https://tap-a-z-rush.vercel.app/preview.png",
+    "tagline": "",
+    "noindex": true
   }
 }
