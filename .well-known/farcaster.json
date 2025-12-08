@@ -1,1 +1,23 @@
-
+{
+  "name": "Tap A→Z Rush",
+  "description": "Tap A→Z Rush — Tap A to Z in order as fast as you can. Compete on the leaderboard!",
+  "url": "https://tap-a-z-rush.vercel.app",
+  "icon": "https://tap-a-z-rush.vercel.app/favicon.png",
+  "version": "1.0.0",
+  "screenshotUrls": [
+    "https://tap-a-z-rush.vercel.app/screenshot-1.png",
+    "https://tap-a-z-rush.vercel.app/screenshot-2.png"
+  ],
+  "primaryCategory": "game",
+  "tags": ["game", "tap", "speed", "leaderboard", "az"],
+  "permissions": [],
+  "openIn": {
+    "type": "iframe",
+    "url": "https://tap-a-z-rush.vercel.app"
+  },
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  }
+}
