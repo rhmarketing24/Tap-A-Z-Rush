@@ -15,9 +15,7 @@
     "type": "iframe",
     "url": "https://tap-a-z-rush.vercel.app"
   },
-  "accountAssociation": {
-    "header": "",
-    "payload": "",
-    "signature": ""
+  "baseBuilder": {
+    "ownerAddress": "0x7E57b5d42a37cC332Cc54712db977F43Baf2ff28"
   }
 }
