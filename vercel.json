@@ -1,8 +1,0 @@
-{
-  "routes": [
-    { "src": "/manifest.json", "dest": "/app/manifest.json" },
-    { "src": "/.well-known/(.*)", "dest": "/.well-known/$1" },
-    { "src": "/api/(.*)", "dest": "/api/$1" },
-    { "src": "/(.*)", "dest": "/app/$1" }
-  ]
-}
